@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="switch_control_type_list">
+        <item>Not Control</item>
+        <item>ON</item>
+        <item>OFF</item>
+    </array>
+
+    <array name="curtain_control_type_list">
+        <item>Control Progress</item>
+        <item>Stop</item>
+        <item>Rollback ON/OFF</item>
+    </array>
+
+    <array name="curtain_control_progress_list">
+        <item>"0%"</item>
+        <item>"10%"</item>
+        <item>"20%"</item>
+        <item>"30%"</item>
+        <item>"40%"</item>
+        <item>"50%"</item>
+        <item>"60%"</item>
+        <item>"70%"</item>
+        <item>"80%"</item>
+        <item>"90%"</item>
+        <item>"100%"</item>
+    </array>
+
+    <array name="ac_panel_power_list">
+        <item>OFF</item>
+        <item>ON</item>
+    </array>
+
+    <array name="ac_panel_mode_list">
+        <item>Cool</item>
+        <item>Hot</item>
+    </array>
+
+    <array name="ac_panel_speed_list">
+        <item>LOW</item>
+        <item>MED</item>
+        <item>HI</item>
+    </array>
+
+    <array name="ac_panel_temperature_list">
+        <item>16℃</item>
+        <item>17℃</item>
+        <item>18℃</item>
+        <item>19℃</item>
+        <item>20℃</item>
+        <item>21℃</item>
+        <item>22℃</item>
+        <item>23℃</item>
+        <item>24℃</item>
+        <item>25℃</item>
+        <item>26℃</item>
+        <item>27℃</item>
+        <item>28℃</item>
+        <item>29℃</item>
+        <item>30℃</item>
+    </array>
+
+</resources>
